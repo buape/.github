@@ -6,11 +6,11 @@ Welcome to Buape Studios, a development studio committed to producing quality ap
 </div>
 <br />
 <h2>Our Team:</h2>
-:crown: [@thewilloftheshadow](https://github.com/thewilloftheshadow) - Lead Developer<br />
-:crown: [@associationgreedy](https://github.com/associationgreedy) - Community Manager<br />
-[@Codeize](https://github.com/codeize) - Developer<br />
-[@net-tech](https://github.com/net-tech) - Developer<br />
-[@Glowstudent777](https://github.com/Glowstudent777) - Developer<br />
-[@daksh-gg](https://github.com/daksh-gg) - Advisor<br />
-[@Xanderxx69](https://github.com/Xanderxx69) - Moderator<br />
+:crown: <a href="https://github.com/thewilloftheshadow">@thewilloftheshadow</a> - Lead Developer<br />
+:crown: <a href="https://github.com/associationgreedy">@Associationgreedy</a> - Community Manager<br />
+<a href="https://github.com/Codeize">@Codeize</a> - Developer<br />
+<a href="https://github.com/net-tech">@net-tech</a> - Developer<br />
+<a href="https://github.com/Glowstudent777">@Glowstudent777</a> - Developer<br />
+<a href="https://github.com/daksh-gg">@daksh-gg</a> - Advisor<br />
+<a href="https://github.com/Xanderxx69">@Xanderxx69</a> - Moderator<br />
 
