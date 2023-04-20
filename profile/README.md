@@ -12,5 +12,6 @@ Welcome to Buape Studios, a development studio committed to producing quality ap
 <a href="https://github.com/net-tech">@net-tech</a> - Developer<br />
 <a href="https://github.com/Glowstudent777">@Glowstudent777</a> - Developer<br />
 <a href="https://github.com/Squidtoon99">@Squidtoon99</a> - Developer<br />
+<a href="https://github.com/OIRNOIR">@OIRNOIR</a> - Developer<br />
 <a href="https://github.com/daksh-gg">@daksh-gg</a> - Advisor<br />
 <a href="https://github.com/Xanderxx69">@Xanderxx69</a> - Moderator<br />
