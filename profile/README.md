@@ -13,6 +13,6 @@ We're a development studio behind amazing products such as:
 
 And many more! Come visit us on Discord using the invite below:
 
-[![](https://invidget.switchblade.xyz/sGmMRSyWXA)](https://discord.gg/sGmMRSyWXA)
+[![](https://inv.bua.pe/sGmMRSyWXA)](https://discord.gg/sGmMRSyWXA)
 
 
