@@ -1,7 +1,7 @@
 # Security Policy
 
-To report a security issue, please email security@buape.com with a full report of the issue you have found, including where you found it and steps to reproduce, in the body of that email.
+To report a security issue, please go to https://github.com/buape/security/security/advisories/new with a full report of the issue you have found, including where you found it and steps to reproduce.
 
-Once you do, you will receive an email back with steps to proceed from there through our Vulnerability Disclosure Program.
+Once you do, all communication about the issue should only take place on that report.
 
 This project follows a 30 day disclosure timeline, and will begin triaging within 24 hours of your report.
